@@ -1,4 +1,4 @@
-#!/usr/bin/env r 
+#!/usr/bin/env Rscript
 
 # load utils package
 library("utils")

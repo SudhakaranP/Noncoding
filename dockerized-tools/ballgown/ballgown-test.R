@@ -40,21 +40,24 @@ results_transcripts <- arrange(results_transcripts, pval)
 results_genes <-  arrange(results_genes, pval)
 
 ## Write results to CSV
-write.csv(results_transcripts, "output/chrX_transcripts_results.csv", row.names=FALSE)
-write.csv(results_genes, "output/chrX_genes_results.csv", row.names=FALSE)
+write.csv(results_transcripts, "transcripts_results.csv", row.names=FALSE)
+write.csv(results_genes, "genes_results.csv", row.names=FALSE)
 
 ## Filter for genes with q-val <0.05
-#subset(results_transcripts, results_transcripts$qval <=0.05)
-#subset(results_genes, results_genes$qval <=0.05)
+subset(results_transcripts, results_transcripts$qval <=0.05)
+subset(results_genes, results_genes$qval <=0.05)
 
 ## Plotting setup
 #tropical <- c('darkorange', 'dodgerblue', 'hotpink', 'limegreen', 'yellow')
 #palette(tropical)
 
 ## Plotting gene abundance distribution
-#fpkm <- texpr(bg_chrX, meas='FPKM')
-#fpkm <- log2(fpkm +1)
-#boxplot(fpkm, col=as.numeric(pheno_data$sex), las=2,ylab='log2(FPKM+1)')
+fpkm <- texpr(bg_chrX, meas='FPKM')
+fpkm <- log2(fpkm +1)
+CairoPDF("gene_abundance_distribution.pdf", width=5, height=5)
+par(mar=c(4,4,1,1)+0.1)
+boxplot(fpkm, col=c("#4DAF4A","#984EA3"), las=2,ylab='log2(FPKM+1)')
+dev.off()
 
 ## Plot individual transcripts
 #ballgown::transcriptNames(bg_chrX)[12]
