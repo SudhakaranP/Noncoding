@@ -13,6 +13,7 @@ pheno_data_file <- args[1]
 library(ballgown)
 library(genefilter)
 library(dplyr)
+library(cairo)
 
 ## Read phenotype sample data
 pheno_data <- read.csv(pheno_data_file)

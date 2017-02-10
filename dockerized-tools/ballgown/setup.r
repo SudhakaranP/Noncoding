@@ -4,7 +4,7 @@
 library("utils")
 
 # install packages from CRAN
-install.packages(c("dplyr", "RColorBrewer", "RCurl"))
+install.packages(c("dplyr", "RColorBrewer", "RCurl", "Cairo"))
 
 # install packages from bioconductor
 source("https://bioconductor.org/biocLite.R")
