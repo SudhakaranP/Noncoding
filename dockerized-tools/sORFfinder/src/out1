@@ -1,0 +1,362 @@
+>AT1G01230-AT1G01240#98#+#1.3
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MSYHNTRMFSIERNDSVGSKEHVAAYKISNSWLMTRVIVKVHLDGYYIMVYVYKIVNPSS
+DATA            --------------------------------------VQIYARNVTMFFYIYKRANPSS
+                                                      *:::  .  ::.*:** .****
+
+sORF            KLNKANKSNQLT
+DATA            RLTKSRESYYMT
+                :*.*:.:*  :*
+ka 0.477318889641164	ks 0.559502664298402	0.853112809104684	0.67202	NO
+>AT1G01700-AT1G01710#1125#+#14.9
+
+No_homolog
+
+>AT1G01700-AT1G01710#596#+#51.2
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MWTVRWGRMTHPTVEIVKCFFKHFN
+DATA            -WAVLYGPRPQPTATLVKCFF----
+                 *:* :*  .:**. :*****    
+ka 0.307109004739336	ks 0.779220779220779	0.394123222748815	0.053580	NO
+>AT1G02080-AT1G02090#45#+#61.6
+
+No_homolog
+
+>AT1G02080-AT1G02090#90#+#55.1
+
+No_homolog
+
+>AT1G02080-AT1G02090#115#+#90.6
+
+No_homolog
+
+>AT1G02080-AT1G02090#205#+#53.9
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MFRSEFRWWDLVDDVINNTFMPA
+DATA            -FEAEFRWWDRVDQV--------
+                 *.:****** **:*        
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MFRSEFRWWDLVDDVINNTFMPA
+DATA            -FESEFRWWDRIDQV--------
+                 *.******* :*:*        
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MFRSEFRWWDLVDDVINNTFMPA
+DATA            ---SHFRWFDLIDYMTNATYMYA
+                   *.***:**:* : * *:* *
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MFRSEFRWWDLVDDVINNTFMPA
+DATA            --QAEFRWWDEVDQV--------
+                  ::****** **:*        
+ka 0.239080642356825	ks 0.770899582044577	0.310132017094544	0.000074508	YES
+>AT1G02190-AT1G02205#624#+#39.1
+
+No_homolog
+
+>AT1G02190-AT1G02205#328#+#49.6
+
+No_homolog
+
+>AT1G02190-AT1G02205#595#+#16.6
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MWRSSNGSSTCLVLAGPTTRNWTGGKIGVVTSFHISTN
+DATA            LWRATDGAPLVPILRFPSAKNLINCKFPTVCSFH----
+                :**:::*:.   :*  *:::*  . *: .* ***    
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MWRSSNGSSTCLVLAGPTTRNWTGGKIGVVTSFHISTN
+DATA            ---------TCLVLAGGSGGEWENGKIGGV--------
+                         ******* :  :* .**** *        
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MWRSSNGSSTCLVLAGPTTRNWTGGKIGVVTSFHISTN
+DATA            --------------AAPTKRHWTGGK------------
+                              *.**.*:*****            
+ka 0.416956622593366	ks 0.716986620127981	0.581540311754966	0.033263	YES
+>AT1G02210-AT1G02220#137#+#43.4
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MPRIVTRDFNGGNEMMILPSLMPRCFSRR
+DATA            ------RAFSAGNQREILEEILPKCFARR
+                      * *..**:  ** .::*:**:**
+ka 0.447445493003579	ks 0.679475164011246	0.65851633246182	0.35133	NO
+>AT1G02210-AT1G02220#233#+#62.9
+
+No_homolog
+
+>AT1G02220-AT1G02228#565#+#94.5
+
+No_homolog
+
+>AT1G02430-AT1G02440#369#+#82.4
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MVKKGHRPSNFSLKRIKLLLELANKHDEVNNLLQKMAIFGTEIPR
+DATA            MIELGQKPSNVAFRRIKILMQLANREESIARLTAQMAQFGRLAP-
+                *:: *::***.:::***:*::***:.:.: .*  :** **   * 
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MVKKGHRPSNFSLKRIKLLLELANKHDEVNNLLQKM-AIFGTEIPR
+DATA            MIKDGYKPDDGLYQVLLAALAKGNEHDEIEGVIQDMEAVF------
+                *:*.*::*.:   : :   *  .*:***::.::*.* *:*      
+ka 0.47206343352388	ks 0.595994137762579	0.792060531494575	0.32624	NO
+>AT1G02490-AT1G02500#2#+#53.1
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MLEQSIALVRARAIMS---FILNLDSDHYIIYNSMALREGGSDGILMGYF
+DATA            ------ALVRTSAIMSNGPFILNLDCDHY-VHNSSALREG----------
+                      ****: ****   ******.*** ::** *****          
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MLEQSIALVRARAIMSFILNLDSDHYIIYNSMALREGGSDGILMGYF
+DATA            ----------------FILDLDCDHYVN-NSQALRAG----------
+                                ***:**.***:  ** *** *          
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MLEQSIALVRARAIMS---FILNLDSDHYIIYNSMALREGGSDGILMGYF
+DATA            ------ALTRASAVLSNSPFILNLDCDHYIN-NSQALRAG----------
+                      **.** *::*   ******.****  ** *** *          
+ka 0.181180596142607	ks 0.653120464441219	0.27740762387168	0.0000013888	YES
+>AT1G02560-AT1G02570#978#+#89.8
+
+No_homolog
+
+>AT1G02580-AT1G02590#702#+#66.8
+
+No_homolog
+
+>AT1G02580-AT1G02590#1065#+#66.8
+
+No_homolog
+
+>AT1G02580-AT1G02590#1248#+#66.8
+
+No_homolog
+
+>AT1G02580-AT1G02590#884#+#66.8
+
+No_homolog
+
+>AT1G02580-AT1G02590#1823#+#34.7
+
+No_homolog
+
+>AT1G02580-AT1G02590#2306#+#60.5
+
+No_homolog
+
+>AT1G02620-AT1G02630#256#+#46.6
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MKFSKPWAGGSRQHTEQCHKAESSVSRRYLTAEGGDDKMDSTGIECSQGVSRDVR
+DATA            -------AG-TRQHTERCLAAKSSVA-----------------------------
+                       ** :*****:*  *:***:                             
+ka 0.230061349693252	ks 0.704592901878914	0.32651670074983	0.034524	YES
+>AT1G02680-AT1G02690#21#+#1.1
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            METINKNGDQLPTKENHCDQLEIEQINNTSMKKKKSSRGMHMFSVVMFMLRRRRGENPST
+DATA            ------------------------------------------FSLLIFMLIFHQGENPKK
+                                                          **:::***  ::****..
+
+sORF            PGSGGESLSPYVNSVSKLR
+DATA            PGS----------------
+                ***                
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            METINKNGDQLPTKENHCDQLEIEQINNTSMKKKKSSRGMHMFSVVMFMLRRRRGENPST
+DATA            -------------------------------------------SFFFFSLVEQRGEGEGA
+                                                           *..:* * .:***. .:
+
+sORF            PGSGGE-SLSPYVNSVSKLR
+DATA            PGSGGEEAVTPAATGV----
+                ****** :::* ...*    
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            METINKNGDQLPTKENHCDQLEIEQINNTSMKKKKSSRGMHMFSVVMFMLRRRRGENPST
+DATA            -------------------------------------------------LRRRQAVDLAA
+                                                                 ****:. : ::
+
+sORF            PGSGGESLSPYVNSVSKLR
+DATA            PPSGGPDLSPYIAAM----
+                * *** .****: ::    
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            METINKNGDQLPTKENHCDQLEIEQINNTSMKKKKSSRGMHMFS---VVMFMLRRRRGEN
+DATA            ------------------------------------SRQLHLFTPAVVIATKVTKKKRGN
+                                                    ** :*:*:   *:   : :::  *
+
+sORF            PSTPGSGGESLSPYVNSVSKLR
+DATA            PSLQFADGFSISPRYNRSS---
+                **   :.* *:**  *  *   
+ka 0.470790146722304	ks 0.61501096834848	0.765498781243757	0.16599	NO
+>AT1G02710-AT1G02720#509#+#70.7
+
+No_homolog
+
+>AT1G02710-AT1G02720#1019#+#71.3
+
+No_homolog
+
+>AT1G02800-AT1G02810#925#+#29.7
+
+No_homolog
+
+>AT1G02800-AT1G02810#632#+#21
+
+No_homolog
+
+>AT1G02830-AT1G02840#383#+#30
+
+No_homolog
+
+>AT1G02850-AT1G02860#1066#+#69.7
+
+No_homolog
+
+>AT1G02870-AT1G02880#1284#+#61.8
+
+No_homolog
+
+>AT1G02870-AT1G02880#1866#+#76.5
+
+No_homolog
+
+>AT1G02870-AT1G02880#2280#+#73.9
+
+No_homolog
+
+>AT1G02870-AT1G02880#3291#+#22.2
+
+No_homolog
+
+>AT1G02870-AT1G02880#3609#+#3.6
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MVLCFLLGSGLFVYKKQCP-FCYRQCLFLEQKP---DSEDLIDIRLPMLPYPHS
+DATA            ----------------KCPNFCYRRCLSLDSTTNLRKSSDMVDI----------
+                                :** ****:** *:...   .*.*::**          
+ka 0.755225893459204	ks 0.391822827938671	1.92746782374153	0.16589	NO
+>AT1G02870-AT1G02880#4011#+#64.2
+
+No_homolog
+
+>AT1G02870-AT1G02880#1072#+#71.7
+
+No_homolog
+
+>AT1G02870-AT1G02880#1475#+#61.8
+
+No_homolog
+
+>AT1G02870-AT1G02880#1664#+#76
+
+No_homolog
+
+>AT1G02870-AT1G02880#2051#+#76
+
+No_homolog
+
+>AT1G02870-AT1G02880#2483#+#46.6
+
+No_homolog
+
+>AT1G02900-AT1G02910#562#+#59.2
+
+No_homolog
+
+>AT1G02920-AT1G02930#969#+#5.6
+
+No_homolog
+
+>AT1G02920-AT1G02930#605#+#64.8
+
+No_homolog
+
+>AT1G03000-AT1G03010#648#+#69.5
+
+No_homolog
+
+>AT1G03022-AT1G03030#1041#+#1
+
+No_homolog
+
+>AT1G03060-AT1G03070#2701#+#17.7
+
+No_homolog
+
+>AT1G03060-AT1G03070#2753#+#89.1
+
+No_homolog
+
+>AT1G03080-AT1G03090#1847#+#59.7
+
+No_homolog
+
+>AT1G03150-AT1G03160#505#+#71.8
+
+No_homolog
+
+>AT1G03150-AT1G03160#521#+#70.8
+
+No_homolog
+
+>AT1G03170-AT1G03180#2133#+#45.5
+
+No_homolog
+
+>AT1G03170-AT1G03180#1493#+#48.4
+
+No_homolog
+
+>AT1G03860-AT1G03870#108#+#9.8
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sORF            MFLFSVLKCLTNFKDIAQAHYFKICFTKPIITWAKDDEL
+DATA            -------------EGIIQARYFQICYLKPLFTCSKDKR-
+                             :.* **:**:**: **::* :**.. 
+ka 0.325156053601483	ks 0.800917246920193	0.405979587593877	0.038949	YES
+>AT1G05170-AT1G05180#495#+#75.9
+
+No_homolog
+
+>AT1G05170-AT1G05180#3291#+#29.9
+
+No_homolog
+
+>AT1G05170-AT1G05180#3813#+#86.1
+
+No_homolog
+
+>AT1G05170-AT1G05180#2476#+#52.7
+
+No_homolog
+
