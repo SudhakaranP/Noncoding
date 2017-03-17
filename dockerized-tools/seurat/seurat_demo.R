@@ -4,7 +4,7 @@ library(Seurat)
 library(Matrix)
 library(Cairo)
 
-pbmc33k.data <- Read10X("input")
+pbmc33k.data <- Read10X("../input")
 pbmc33k  <- new("seurat", raw.data = pbmc33k.data)
 
 #setup setting do.scale and do.center to F - this means that we will NOT scale genes by default (to speed things up)
