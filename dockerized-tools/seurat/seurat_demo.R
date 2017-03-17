@@ -1,10 +1,11 @@
 # Seurat demo script
 
+library(methods)
 library(Seurat)
 library(Matrix)
 library(Cairo)
 
-pbmc33k.data <- Read10X("../input")
+pbmc33k.data <- Read10X("/data/input/")
 pbmc33k  <- new("seurat", raw.data = pbmc33k.data)
 
 #setup setting do.scale and do.center to F - this means that we will NOT scale genes by default (to speed things up)
@@ -28,7 +29,7 @@ pbmc33k <- SubsetData(pbmc33k, subset.name = "percent.mito", accept.high = 0.05)
 pbmc33k <- SubsetData(pbmc33k, subset.name = "nGene", accept.low = 500)
 
 #mean-variability plot
-CairoPDF("MeanVarPlot.pdf", width=5, height=5)
+CairoPDF("MeanVarPlot.pdf", width=8, height=8)
 par(mar=c(4,4,1,1)+0.1)
 MeanVarPlot(pbmc33k, x.low.cutoff = 0, y.cutoff = 0.8)
 dev.off()
