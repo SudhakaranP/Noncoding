@@ -1,10 +1,10 @@
-#Dockerized Tools
+# Dockerized Tools
 
 Collection of dockerized tools for use on the CGC. 
 
 Tools will be added to the **tools** project on the CGC so that they are easy to find. Apps in the **tools** project can easily be copied to other projects as required.
 
-##Useful commands
+## Useful commands
 
 Build docker image
 ```
@@ -27,7 +27,7 @@ Push image to CGC repository
 docker push cgc-images.sbgenomics.com/wayland/<name>:<tag>
 ```
 
-##Example 
+## Example 
 
 Assume **Dockerfile** and any other required files are located in a directory called align in our home directory. Change to this directory:
 ```
