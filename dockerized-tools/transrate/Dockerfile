@@ -21,7 +21,8 @@ WORKDIR /opt
 # download and extract transrate binaries
 RUN wget https://bintray.com/artifact/download/blahah/generic/transrate-1.0.3-linux-x86_64.tar.gz && \
 	tar zxf transrate-1.0.3-linux-x86_64.tar.gz && \
-	rm transrate-1.0.3-linux-x86_64.tar.gz
+	rm transrate-1.0.3-linux-x86_64.tar.gz && \
+	rm /opt/transrate-1.0.3-linux-x86_64/bin/librt.so.1
 
 # add transrate to path
 ENV PATH "$PATH:/opt/transrate-1.0.3-linux-x86_64"
